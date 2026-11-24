@@ -1,4 +1,3 @@
-#1WN24CS099
 
 def unify(x, y, sub):
     if x == y:
